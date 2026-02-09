@@ -19,7 +19,7 @@ import java.net.Socket;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
-public class BatteryAlermData {
+public class BatteryAlermData { 
     // 配置项
     private static final String FILE_PATH = "battery_data.csv";
     private static final int PORT = 9999;
